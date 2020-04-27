@@ -1,0 +1,5 @@
+dirs:
+  - tree
+  - tree1
+
+size limit: 1_000_000
